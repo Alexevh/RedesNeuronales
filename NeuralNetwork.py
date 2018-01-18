@@ -189,17 +189,17 @@ Cohen's Kappa: clasificacion de exactitud (accuracy) normalizada mediante el des
 #print(confusion_matrix(y_test, y_pred))
 
 # Precision
-print("Precision :")
-precision_score(y_test, y_pred)
+#print("Precision :")
+#precision_score(y_test, y_pred)
 
 # Recall
-print("Recall :")
-recall_score(y_test, y_pred)
+#print("Recall :")
+#recall_score(y_test, y_pred)
 
 # F1 score
-print("F1 :")
-f1_score(y_test,y_pred)
+#print("F1 :")
+#f1_score(y_test,y_pred)
 
 # Cohen's kappa
-print("Cohen's Kappa :")
-cohen_kappa_score(y_test, y_pred)
+#print("Cohen's Kappa :")
+#cohen_kappa_score(y_test, y_pred)
